@@ -245,8 +245,7 @@ const updateUserById = async (req, res) => {
 const ResetPassByEmail = async (req, res) => {
   const { email } = req.query;
   const { password } = req.body;
-// console.log(email);
-// console.log(password);
+
 
   const hashedPassword = await bcrypt.hash(password, saltRounds);
 
