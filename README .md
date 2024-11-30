@@ -78,13 +78,13 @@ Now app ready to use
 
 - You have to create account by register page then login with it 
 - When you login you will navigate to home page and you can start by creating your own posts ,
-- You can follow users by clicking on explore button in navbar or search bar and see they activities .
+- You can follow users by clicking on explore button in the side bar or search bar and see they activities .
 - Also you can chatting with users that you followed them and talk with them about your opinions
-- You can adding reacts to any post by (like button , creating comments) Also you can save any of thoose posts
-- You have full access to edit on your own profile and controll it in any time you want
-- You can cotact with us directly by clicking on setting then contact us and we will be so habby while listening your feedbacks
-- For extra informations you can read about how to use this app by clicking setting Button then how to use this app
-- thanks for your time and we hope to live an exceptional experience
+- You can adding reacts to any post by (like button , creating comments) Also you can save any of these posts
+- You have full access to edit your own profile and control it in any time you want
+- You can contact with us directly by clicking on setting then contact us and we will be so habby while listening your feedbacks
+- For extra information, you can read about how to use this app by clicking setting Button then how to use this app
+- thanks for your time and we hope to have an exceptional experience
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [postgresql](https://www.postgresql.org/download) - Database
